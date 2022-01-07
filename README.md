@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Fajar
 
-- 🔭 Front End Developer at Digdaya Inovasi Gemilang  
-- 🔭 Internship as full-stack developer at Eduwork
+<!-- - 🔭 Front End Developer at Digdaya Inovasi Gemilang  
+- 🔭 Internship as full-stack developer at Eduwork -->
 - 🌱 I’m currently learning vue and laravel
 - 👯 I’m looking to collaborate on vue or laravel project or open source project
 
