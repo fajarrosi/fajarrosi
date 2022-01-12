@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Fajar
 
-<!-- - 🔭 Front End Developer at Digdaya Inovasi Gemilang  
-- 🔭 Internship as full-stack developer at Eduwork -->
+- 🔭 I'm currently working as Front End Developer at Digdaya Inovasi Gemilang  
+- 🔭 and currently Internship as full-stack developer at Eduwork
 - 🌱 I’m currently learning vue and laravel
 - 👯 I’m looking to collaborate on vue or laravel project or open source project
 
@@ -25,10 +25,6 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
 ---
-
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarrosi&show_icons=true&hide_border=true)
